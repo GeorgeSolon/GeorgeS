@@ -1,5 +1,5 @@
 # main text of home
-name: George Solon
+name:George Solon
 bio: A Man who travels the world eating 
 
 # twitter summary info
@@ -39,7 +39,7 @@ twitter: PervyTeen
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
- linkedin: georgesolon
+linkedin: georgesolon
 # youtube: myyoutube
 spotify: 22vsesmbklakoeik2jdrxdtpi
 # github: mygithub
@@ -76,7 +76,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
