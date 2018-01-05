@@ -16,8 +16,8 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-# url: https://georgesolon.github.io/GeorgeS/
-# your url: http://USERNAME.github.io
+url: https://georgesolon.github.io/GeorgeS/
+your url: http://georgesolon.github.io/GeorgeS/
 
 permalink: /:title/
 
