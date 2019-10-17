@@ -1,6 +1,6 @@
 # main text of home
 name: George Solon
-bio: Burgers. Beer. Books. 
+bio: Burgers. Beers. Books. 
 
 # twitter summary info
 description: An easy way to connect with me via the interwebs
@@ -33,7 +33,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: dark69slayer
+#facebook: dark69slayer
 twitter: pervyteen
 # google: mygoogle
 # instagram: myinstagram
